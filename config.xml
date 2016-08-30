@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.knarsas.mimoodle"
         versionCode = "2010"
-        version   = "2.9">
-    <name>Moodle Mobile</name>
+        version   = "1.0">
+    <name>MoodleMobile Android</name>
 
     <description>
-        Moodle Mobile official app
+        Basic Moodle Mobile app for Android. Built by Emma Castillo
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://www.knarsas.com" email="emma.castillo@knarsas.com">
         Moodle Pty Ltd
     </author>
 
