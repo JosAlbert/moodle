@@ -12,7 +12,7 @@
     </description>
 
     <author href="http://www.knarsas.com" email="emma.castillo@knarsas.com">
-        Moodle Pty Ltd
+        KNAR S.A.S
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
