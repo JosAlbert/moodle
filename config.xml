@@ -5,14 +5,14 @@
         id        = "com.knarsas.mimoodle"
         versionCode = "2010"
         version   = "1.0">
-    <name>MoodleMobile Android</name>
+    <name>Moodle Mobile Android UC</name>
 
     <description>
-        Basic Moodle Mobile app for Android. Built by Emma Castillo
+        Basic Moodle Mobile app for Android. Built by José Albert Loya N.
     </description>
 
-    <author href="http://www.knarsas.com" email="emma.castillo@knarsas.com">
-        KNAR S.A.S
+    <author href="http://adistancia.ucontinental.edu.pe/" email="jloya@continental.edu.pe">
+        UC a Distancia
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
