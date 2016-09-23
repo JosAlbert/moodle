@@ -5,7 +5,7 @@
         id        = "com.jloya.mimoodle"
         versionCode = "2010"
         version   = "1.0">
-    <name>Moodle Mobile Android UC</name>
+    <name>CampusVirtual UC</name>
 
     <description>
         Basic Moodle Mobile app for Android. Built by José Albert Loya N.
